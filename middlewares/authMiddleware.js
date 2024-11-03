@@ -20,7 +20,6 @@ const authMiddleware = (req, res, next) => {
 
   try {
     const configPath = path.join(__dirname, `../clients/${client}/config.json`);
-    console.log(configPath)
     if (!fs.existsSync(configPath)) {
       return res.status(404).json({ error: 'Client no found' });
     }

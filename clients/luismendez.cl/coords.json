@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "code": "U6P3WN",
+    "used": true,
+    "usedAt": "2024-11-03T15:03:49.918Z"
+  },
+  {
+    "id": 2,
+    "code": "OAWFYB",
+    "used": true,
+    "usedAt": "2024-11-03T14:26:08.055Z"
+  },
+  {
+    "id": 3,
+    "code": "IG178B",
+    "used": true,
+    "usedAt": "2024-11-03T15:05:31.763Z"
+  },
+  {
+    "id": 4,
+    "code": "SJRSAV",
+    "used": true,
+    "usedAt": "2024-11-03T15:06:03.742Z"
+  },
+  {
+    "id": 5,
+    "code": "DXYCR5",
+    "used": true,
+    "usedAt": "2024-11-03T15:09:30.472Z"
+  },
+  {
+    "id": 6,
+    "code": "GJ5WQP",
+    "used": false,
+    "usedAt": null
+  },
+  {
+    "id": 7,
+    "code": "5K1YGO",
+    "used": false,
+    "usedAt": null
+  },
+  {
+    "id": 8,
+    "code": "BRABQC",
+    "used": false,
+    "usedAt": null
+  },
+  {
+    "id": 9,
+    "code": "VFRDUZ",
+    "used": false,
+    "usedAt": null
+  },
+  {
+    "id": 10,
+    "code": "OPLJDN",
+    "used": false,
+    "usedAt": null
+  },
+  {
+    "id": 11,
+    "code": "19PQX1",
+    "used": false,
+    "usedAt": null
+  },
+  {
+    "id": 12,
+    "code": "N1TPDS",
+    "used": false,
+    "usedAt": null
+  },
+  {
+    "id": 13,
+    "code": "XYWXN2",
+    "used": false,
+    "usedAt": null
+  },
+  {
+    "id": 14,
+    "code": "KEHMZ6",
+    "used": false,
+    "usedAt": null
+  },
+  {
+    "id": 15,
+    "code": "BQNV9B",
+    "used": false,
+    "usedAt": null
+  },
+  {
+    "id": 16,
+    "code": "Y3Y3D2",
+    "used": false,
+    "usedAt": null
+  },
+  {
+    "id": 17,
+    "code": "4QRVQ5",
+    "used": false,
+    "usedAt": null
+  },
+  {
+    "id": 18,
+    "code": "8FJ5NV",
+    "used": false,
+    "usedAt": null
+  },
+  {
+    "id": 19,
+    "code": "4U435F",
+    "used": false,
+    "usedAt": null
+  },
+  {
+    "id": 20,
+    "code": "7GG6MV",
+    "used": false,
+    "usedAt": null
+  },
+  {
+    "id": 21,
+    "code": "R7UNN7",
+    "used": false,
+    "usedAt": null
+  },
+  {
+    "id": 22,
+    "code": "0RKPAO",
+    "used": false,
+    "usedAt": null
+  },
+  {
+    "id": 23,
+    "code": "FYZ500",
+    "used": false,
+    "usedAt": null
+  },
+  {
+    "id": 24,
+    "code": "GILZCZ",
+    "used": false,
+    "usedAt": null
+  },
+  {
+    "id": 25,
+    "code": "URU54P",
+    "used": false,
+    "usedAt": null
+  },
+  {
+    "id": 26,
+    "code": "MF9LFX",
+    "used": false,
+    "usedAt": null
+  },
+  {
+    "id": 27,
+    "code": "QAWGB8",
+    "used": false,
+    "usedAt": null
+  },
+  {
+    "id": 28,
+    "code": "8LUKQG",
+    "used": false,
+    "usedAt": null
+  },
+  {
+    "id": 29,
+    "code": "94ADMG",
+    "used": false,
+    "usedAt": null
+  },
+  {
+    "id": 30,
+    "code": "3OKCGE",
+    "used": false,
+    "usedAt": null
+  }
+]
