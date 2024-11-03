@@ -2,6 +2,7 @@ const fs = require('fs');
 const path = require('path');
 require('dotenv').config();
 const allowedOrigins = process.env.CORS_ORIGINS ? process.env.CORS_ORIGINS.split(","): '*';
+const clientsValid = process.env.CLIENTS.split(",");
 
 const authMiddleware = (req, res, next) => {
 
@@ -12,6 +13,11 @@ const authMiddleware = (req, res, next) => {
   }
 
   const { client } = req.params;
+
+  if (!clientsValid.includes(client)) {
+    return res.status(403).json({ error: 'Unauthorized' });
+  }
+
   const authKey = req.headers['x-api-key'];
 
   if (!authKey) {
