@@ -1,0 +1,12 @@
+{
+  "apiKey": "SECRET_KEY_FOR_TENANT2",
+  "templates":[
+    {
+      "id": "delivered_done",
+      "htmlTemplateUrl":"delivered_done.html",
+      "from": "info@mercadolibre.cl",
+      "replyTo": "info@mercadolibre.cl",
+      "subject": "Your product has been delivered"
+    }
+  ]
+}

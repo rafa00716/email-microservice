@@ -1,0 +1,21 @@
+{
+  "apiKey": "SECRET_KEY_FOR_TENANT1",
+  "templates":[
+    {
+      "id": "paid",
+      "htmlTemplateUrl":"paid.html",
+      "from": "contacto@test.cl",
+      "replyTo": "contacto@test.cl",
+      "subject": "Your shop car has been paid successfully",
+      "variables":["name","email","message"]
+    },
+    {
+      "id": "contact_form",
+      "htmlTemplateUrl":"contact_form.html",
+      "from": "contacto@test.cl",
+      "replyTo": "contacto@test.cl",
+      "subject": "Solicitud de contacto",
+      "variables":["name","subject","message"]
+    }
+  ]
+}

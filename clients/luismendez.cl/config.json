@@ -1,0 +1,15 @@
+{
+  "apiKey": "SECRET_KEY_FOR_TENANT1",
+  "templates":[
+    {
+      "id": "contact_form",
+      "htmlTemplateUrl":"contact_form.html",
+      "from": "consultas@luismendez.cl",
+      "replyTo": "consultas@luismendez.cl",
+      "to":"{{email}}",
+      "cc":"luismendez@gmail.com",
+      "subject": "Solicitud de contacto de {{email}}",
+      "variables":["name","email","subject","message"]
+    }
+  ]
+}
